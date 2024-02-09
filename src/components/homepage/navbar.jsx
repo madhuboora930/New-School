@@ -190,6 +190,7 @@ function Navbar () {
                                 width={150}
                                 height={150}
                                 alt="Image Logo"
+                                loading="lazy"
                             />
                         </Link>
                         <div className="md:hidden ">

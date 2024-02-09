@@ -60,7 +60,7 @@ const Registration = () => {
         <Navbar/>
         <main className="flex overflow-hidden">
             <div className="flex-1 hidden lg:block">
-                <Image height={800} width={800}  src="/images/admission.png" className="w-full h-screen object-cover" alt="Registran" />
+                <Image height={800} width={800}  loading="lazy" src="/images/admission.png" className="w-full h-screen object-cover" alt="Registran" />
             </div>
             <div className="py-12 flex-1 lg:flex lg:justify-center bg-white lg:h-screen lg:overflow-auto">
                 <div className="max-w-lg flex-1 mx-auto px-2 text-gray-600">

@@ -25,9 +25,7 @@ const Image1 = () => {
        state of the art infrastructure and a child friendly atmosphere provides a safe and stimulating environment to the young learners. The bricks and mortar it is built with binds the unifying spirit
         and the palpable energy one can feel as one enters the portals of this great institution. The school represents the transformation of education globally. Driven by latest research, the school uses
          innovative teaching methodology with special emphasis on extra-curricular .
-
-
-         <button type="button" className="text-white bg-yellow-400 hover:bg-yellow-500 focus:outline-none focus:ring-4 focus:ring-yellow-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 mt-12 dark:focus:ring-yellow-900" onClick={() => router.push("/Introduction/Intro")}>Read More</button>
+         <button type="button" className="text-black bg-yellow-400 hover:bg-yellow-500 focus:outline-none focus:ring-4 focus:ring-yellow-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 mt-12 dark:focus:ring-yellow-900" onClick={() => router.push("/Introduction/Intro")}>Read More</button>
       </div>
     </div>
   </div>

@@ -30,8 +30,6 @@ const Transport = () => {
                     <p className="mt-3 text-gray-600">
                     The school has a huge fleet of GPRS enabled buses and CCTV cameras that transport the children and teachers to school from various parts of the city and back to home. The school employs only experienced bus drivers and conducts regular orientation programmes on the guidelines laid by the school authorities for the safety of students. Guards accompany the little ones to ensure their care and safety.
 
- 
-
 The school has an excellent security system, which comprises of well-trained personnel who keep strict vigil on the visitors during school hours and beyond.
                     </p>
                 </div>
