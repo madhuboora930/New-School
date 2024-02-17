@@ -77,11 +77,11 @@ const Footer = () => {
     ]
 
     return (
-        <footer className="pt-10 bg-[#1B6C86]">
+        <footer className="pt-10 bg-[#185D77]">
             <div className="max-w-screen-xl mx-auto px-4 md:px-8">
                 <div className="justify-between items-center gap-12 md:flex">
                     <div className="flex-1 max-w-lg">
-                        <h3 className="text-white text-2xl font-bold">
+                        <h3 className="text-[#FFFFFF] text-2xl font-bold">
                         HAVE ANY QUESTIONS OR ANY QUERY REGARDING ADMISSIONS?
                     CALL NOW:
                     +91-94161-20021, +91-94677-32039
